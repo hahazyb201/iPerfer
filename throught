@@ -1,0 +1,47 @@
+l1
+h3 client
+sent=55864 KB Rate=18.6213 Mbps
+h1 server
+received=55864 KB  Rate=18.6213 Mbps
+
+l2
+h3 client
+sent=101390 KB Rate=36.8691 Mbps
+h4 server
+received=101390 KB Rate=36.8691 Mbps
+
+l3
+h3 client
+sent=78789 KB Rate=28.6505 Mbps
+h7 server
+sent=78789 KB Rate=28.6505 Mbps
+
+l4
+h8 client
+sent=66562 KB Rate=23.152 Mbps
+h4 server
+sent=66562 KB Rate=23.152 Mbps
+
+l5
+h8 client
+sent=70460 KB Rate=24.5078 Mbps
+h9 server
+sent=70460 KB Rate=24.5078 Mbps
+
+Q2
+h10 client
+sent=55038 KB Rate=22.0152 Mbps
+h1 server
+sent=66767 KB Rate=17.6122 Mbps
+
+Q4
+h1-h10:
+h1
+received=40572 KB Rate=13.524 Mbps
+h10
+sent=40572 KB Rate=13.524 Mbps
+h3-h8:
+h3
+received=27704 KB Rate=9.63617 Mbps
+h8
+sent=27704 KB Rate=9.63617 Mbps

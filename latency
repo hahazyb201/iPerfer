@@ -1,0 +1,32 @@
+l1
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 80.124/80.376/83.031/0.708 ms
+
+l2
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 20.115/20.317/21.988/0.469 ms
+
+l3
+20 packets transmitted, 20 received, 0% packet loss, time 19002ms
+rtt min/avg/max/mdev = 60.123/60.369/61.927/0.504 ms
+
+l4
+20 packets transmitted, 20 received, 0% packet loss, time 19025ms
+rtt min/avg/max/mdev = 10.109/10.302/11.779/0.453 ms
+
+l5
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 10.098/10.289/11.981/0.456 ms
+
+Q2
+h1 h10:
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 120.404/121.072/126.570/1.509 ms
+
+Q4:
+h1 h10:
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 120.461/121.911/126.066/1.503 ms
+h3 h8:
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 30.194/30.610/33.262/0.795 ms
