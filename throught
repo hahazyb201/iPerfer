@@ -30,9 +30,9 @@ sent=70460 KB Rate=24.5078 Mbps
 
 Q2
 h10 client
-sent=55038 KB Rate=22.0152 Mbps
+sent=55038 KB Rate=18.7944 Mbps
 h1 server
-sent=66767 KB Rate=17.6122 Mbps
+received=55038 KB Rate=18.7944 Mbps
 
 Q4
 h1-h10:
